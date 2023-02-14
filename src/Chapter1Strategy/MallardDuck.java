@@ -1,8 +1,7 @@
-package Chapter1;
+package Chapter1Strategy;
 
-import Chapter1.Duck;
-import Chapter1.Implementations.FlyWithWings;
-import Chapter1.Implementations.Quack;
+import Chapter1Strategy.Implementations.FlyWithWings;
+import Chapter1Strategy.Implementations.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck(){

@@ -1,4 +1,4 @@
-package Chapter1.Interfaces;
+package Chapter1Strategy.Interfaces;
 
 public interface FlyBehavior {
     void fly();

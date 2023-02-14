@@ -1,6 +1,6 @@
-package Chapter1;
+package Chapter1Strategy;
 
-import Chapter1.Implementations.FlyRocketPowered;
+import Chapter1Strategy.Implementations.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     /**

@@ -1,7 +1,7 @@
-package Chapter1;
+package Chapter1Strategy;
 
-import Chapter1.Implementations.FlyNoWay;
-import Chapter1.Implementations.Quack;
+import Chapter1Strategy.Implementations.FlyNoWay;
+import Chapter1Strategy.Implementations.Quack;
 
 public class ModelDuck extends Duck{
     public ModelDuck() {

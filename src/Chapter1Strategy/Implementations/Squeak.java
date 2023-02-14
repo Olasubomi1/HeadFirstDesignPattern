@@ -1,6 +1,6 @@
-package Chapter1.Implementations;
+package Chapter1Strategy.Implementations;
 
-import Chapter1.Interfaces.QuackBehavior;
+import Chapter1Strategy.Interfaces.QuackBehavior;
 
 public class Squeak implements QuackBehavior {
 

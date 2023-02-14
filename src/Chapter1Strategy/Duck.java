@@ -1,7 +1,7 @@
-package Chapter1;
+package Chapter1Strategy;
 
-import Chapter1.Interfaces.FlyBehavior;
-import Chapter1.Interfaces.QuackBehavior;
+import Chapter1Strategy.Interfaces.FlyBehavior;
+import Chapter1Strategy.Interfaces.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
