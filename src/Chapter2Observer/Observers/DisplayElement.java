@@ -1,4 +1,4 @@
-package Chapter2Observer;
+package Chapter2Observer.Observers;
 
 public interface DisplayElement {
     void display();
