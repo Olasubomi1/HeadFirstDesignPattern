@@ -12,4 +12,15 @@ public class Main {
  * Strive for loosely coupled designs between objects that interact
  *
  * */
+
+/**
+ * Object-Oriented Basics
+ * ----------------------
+ *
+ * Abstraction
+ * Encapsulation
+ * Polymorphism
+ * Inheritance
+ * */
+
 }
