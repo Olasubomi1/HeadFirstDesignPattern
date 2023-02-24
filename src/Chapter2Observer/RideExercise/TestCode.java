@@ -6,7 +6,6 @@ import Chapter2Observer.RideExercise.Driver.Driver;
 public class TestCode {
     public static void main(String[] args) {
         Customer customer = new Customer();
-
         Driver driver = new Driver(customer);
         Driver driver1 = new Driver(customer);
 
