@@ -17,7 +17,6 @@ public class Main {
 /**
  * Object-Oriented Basics
  * ----------------------
- *
  * Abstraction
  * Encapsulation
  * Polymorphism
