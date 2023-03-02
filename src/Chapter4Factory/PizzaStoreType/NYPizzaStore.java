@@ -1,6 +1,10 @@
-package Chapter4Factory;
+package Chapter4Factory.PizzaStoreType;
 
-public class NYPizzaStore extends PizzaStore{
+import Chapter4Factory.NYStyleCheesePizza;
+import Chapter4Factory.Pizza;
+import Chapter4Factory.PizzaStore;
+
+public class NYPizzaStore extends PizzaStore {
     @Override
     public Pizza createPizza(String type) {
         if (type.equals("cheese")){
