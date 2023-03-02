@@ -1,4 +1,4 @@
-package Chapter4Factory.FactoryMethod;
+package Chapter4Factory;
 
 public abstract class PizzaStore {
     public Pizza orderPizza(String type){
@@ -14,5 +14,5 @@ public abstract class PizzaStore {
 
     }
 
-    public abstract Pizza createPizza(String type);
+    protected abstract Pizza createPizza(String type);
 }
