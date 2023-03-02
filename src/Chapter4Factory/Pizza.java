@@ -3,6 +3,10 @@ package Chapter4Factory;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * The Product class
+ * -----------------
+ */
 public abstract class Pizza {
     String name;
     String dough;

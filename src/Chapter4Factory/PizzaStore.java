@@ -1,5 +1,9 @@
 package Chapter4Factory;
 
+/**
+ * The Creator class
+ * -----------------
+ */
 public abstract class PizzaStore {
     public Pizza orderPizza(String type){
         Pizza pizza;
